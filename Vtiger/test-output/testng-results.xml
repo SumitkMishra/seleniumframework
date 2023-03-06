@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T20:18:08 IST" name="Default suite" finished-at="2023-03-06T20:19:08 IST" duration-ms="60019">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T20:18:08 IST" name="Default test" finished-at="2023-03-06T20:19:08 IST" duration-ms="60019">
+      <class name="Organisation.createorganisation">
+        <test-method is-config="true" signature="bs()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:18:08 IST" name="bs" finished-at="2023-03-06T20:18:08 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bT()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:18:08 IST" name="bT" finished-at="2023-03-06T20:18:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bT -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:18:08 IST" name="bc" finished-at="2023-03-06T20:18:14 IST" duration-ms="5981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:18:14 IST" name="BM" finished-at="2023-03-06T20:18:23 IST" duration-ms="8838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="Createorganisation()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:18:23 IST" name="Createorganisation" finished-at="2023-03-06T20:19:06 IST" duration-ms="42837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createorganisation -->
+        <test-method is-config="true" signature="Am()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:19:06 IST" name="Am" finished-at="2023-03-06T20:19:08 IST" duration-ms="2238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:19:08 IST" name="ac" finished-at="2023-03-06T20:19:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:19:08 IST" name="AT" finished-at="2023-03-06T20:19:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:Organisation.createorganisation@158d2680]" started-at="2023-03-06T20:19:08 IST" name="AS" finished-at="2023-03-06T20:19:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- Organisation.createorganisation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
